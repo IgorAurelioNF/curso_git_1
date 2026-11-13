@@ -1,3 +1,5 @@
 Testanto Repo
 
 Oii 
+Ainda preciso aprofundar como implementar a integração por eventos, especialmente o caminho entre pagamento aprovado e reserva no ERP.
+Também não consegui determinar qual canal digital predomina (site ou aplicativo), dúvida que já constava no meu Campo 01.
